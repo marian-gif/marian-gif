@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I’m @marian-gif.
+I’m @marian.
 
 - 👀 **I’m interested in:** AI, Machine Learning.
 - 🌱 **I’m currently learning:** Flutter, Dart, and Data Science.
